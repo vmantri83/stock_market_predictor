@@ -1,1 +1,4 @@
 Installed ocr of image to text
+
+
+Installed Google chrome on Linux
