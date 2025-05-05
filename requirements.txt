@@ -1,0 +1,8 @@
+flask
+flask-cors
+tensorflow==2.18
+keras==3.8
+scikit-learn
+pandas
+numpy
+yfinance
